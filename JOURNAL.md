@@ -56,3 +56,15 @@ also Finished the PCB
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/60642058c2bd67ed2ba958b365670b09a76cadf5_image.png)
 
 ** Total time Spent 2.5hr **
+
+#### June 4th Part 2 Electric Boogaloo
+
+Found out that ZMK does not support my new Micro Controller so I need to find a different one.
+ 
+I am now going to use SparkFun Pro Micro - RP2040
+
+- https://www.sparkfun.com/sparkfun-pro-micro-rp2040.html
+
+It has 4 ADC pins and is actualy supported by ZMK
+
+** Total Time Spent 0.5 hr **
