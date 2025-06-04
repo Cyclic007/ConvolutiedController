@@ -41,4 +41,18 @@ I decided that a controller with only 1 joystick is pathetic to I am changeing t
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c11a42454f0eb3f9d48f4a8e54dc4f91a332ca8e_image.png)
 
-** Total Time spent 1hr **
+** Total Time spent 1.5hr **
+
+#### June 4 PCB but for real this time
+
+I started by fixing some aotaion things first 
+
+also made case by Useing Turbo Case
+
+- https://turbocase.org/
+
+also Finished the PCB
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/60642058c2bd67ed2ba958b365670b09a76cadf5_image.png)
+
+** Total time Spent 2.5hr **
