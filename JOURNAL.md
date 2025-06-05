@@ -68,3 +68,14 @@ I am now going to use SparkFun Pro Micro - RP2040
 It has 4 ADC pins and is actualy supported by ZMK
 
 ** Total Time Spent 0.5 hr **
+
+#### June 5th Finding that I messed up
+
+so I need a different micro controller because the new one I chose does not have any ADC pins so I will be useing Seeed Studio XIAO RP2040
+
+- wiki.seeedstudio.com/XIAO-RP2040/
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0db04dad982bc87245ef0502aa6296e004c5a82b_image.png)
+
+I also start on the firmwere configs useing ZMK
+
