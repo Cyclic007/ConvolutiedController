@@ -91,4 +91,4 @@ also I am once again going to change controller for the Adafruit Feather nRF5284
 
 and I wont need to write the firmwere myself.
 
-** Total Time Spent 5.5 hr **
+** Total Time Spent 6.5 hr **
