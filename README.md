@@ -1,12 +1,14 @@
-# Convoluted COntroller
+# Convoluted Controller
 
-This is a custom controller using https://github.com/passinglink/passinglink for firmware
+This is a custom controller using https://github.com/passinglink/passinglink for firmware and using THB001P joysticks
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/075a4479b8401aa721ad1cecd837b8c7f3f25156_image.png)
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c11a42454f0eb3f9d48f4a8e54dc4f91a332ca8e_image.png)
 
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0c57ca100ac3c30985fa741c117fd680f99747b0_image.png)
 
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d5ed3c83993577b2d00578ea7e7437bb690b5314_image.png)
 
 
 
