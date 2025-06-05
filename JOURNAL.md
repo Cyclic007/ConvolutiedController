@@ -67,7 +67,7 @@ I am now going to use SparkFun Pro Micro - RP2040
 
 It has 4 ADC pins and is actualy supported by ZMK
 
-** Total Time Spent 0.5 hr **
+** Total Time Spent 1 hr **
 
 #### June 5th Finding that I messed up
 
@@ -91,4 +91,4 @@ also I am once again going to change controller for the Adafruit Feather nRF5284
 
 and I wont need to write the firmwere myself.
 
-** Total Time Spent 5 hr **
+** Total Time Spent 5.5 hr **
