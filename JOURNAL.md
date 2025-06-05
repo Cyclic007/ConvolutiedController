@@ -77,5 +77,18 @@ so I need a different micro controller because the new one I chose does not have
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0db04dad982bc87245ef0502aa6296e004c5a82b_image.png)
 
-I also start on the firmwere configs useing ZMK
+I also started on the firmwere configs useing ZMK
 
+I found that insted of useing ZMK I am going to use PassingLink
+
+- https://github.com/passinglink/passinglink
+
+this comes with the stuff to just flash the firmwere 
+
+also I am once again going to change controller for the Adafruit Feather nRF52840 because It works with a battery and is recommended for the firmwere
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/075a4479b8401aa721ad1cecd837b8c7f3f25156_image.png)
+
+and I wont need to write the firmwere myself.
+
+** Total Time Spent 5 hr **
