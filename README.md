@@ -2,7 +2,7 @@
 
 This is a custom controller using https://github.com/passinglink/passinglink for firmware and using THB001P joysticks Made with the scheme of a nentendo controller made to not get stick drift.
 
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/075a4479b8401aa721ad1cecd837b8c7f3f25156_image.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b68c8c1a7a4ea3dc5742f76d59bde1158398d12a_image.png)
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/adb4aff89deafc6d12d0b383af9ec94faa4a3179_image.png)
 
