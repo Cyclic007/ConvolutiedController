@@ -1,0 +1,5 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"A2,B1,D_Down1,D_Left1,D_right1,D_UP1,X1,Y1","8","Switch","","","","Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxJ","~"
+"D1,D2,D3,D4,D9,D10,D11,D12","8","1N4148","","","","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+"stick1,stick2","2","THB001P","","","","ScottoKeebs_Miscellaneous:THB001P_CNK","THB001P"
+"U1","1","nRF52840_Featherwing","","","","Module:Adafruit_Feather","https://learn.adafruit.com/introducing-the-adafruit-nrf52840-feather"
