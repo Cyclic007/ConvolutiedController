@@ -92,3 +92,11 @@ also I am once again going to change controller for the Adafruit Feather nRF5284
 and I wont need to write the firmwere myself.
 
 ** Total Time Spent 6.5 hr **
+
+#### June 8 Fixing things
+
+I have been told I need to actually make my own case 3d model so I boot up Fusion 360 to start on that
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5bd6f40032a6ffecd1735271c88bd00e8aa2448a_image.png)
+
+![](https://hackclub.slack.com/archives/C016DEDUL87/p1749392403176389?thread_ts=1749392396.917319&cid=C016DEDUL87)
