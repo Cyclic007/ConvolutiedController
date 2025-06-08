@@ -1,6 +1,6 @@
 # Convoluted Controller
 
-This is a custom controller using https://github.com/passinglink/passinglink for firmware and using THB001P joysticks Made with the scheme of a nentendo controller made to not get stick drift.
+This is a custom controller using Alpaca for firmware and using THB001P joysticks Made with the scheme of a nentendo controller made to not get stick drift.
 
 This controller is built for PC gameing and not console.
 
