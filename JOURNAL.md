@@ -102,3 +102,9 @@ I have been told I need to actually make my own case 3d model so I boot up Fusio
 ![](https://hackclub.slack.com/archives/C016DEDUL87/p1749392403176389?thread_ts=1749392396.917319&cid=C016DEDUL87)
 
 ** Total Time Spent 1hr 
+
+#### June 8 part 2 firmwere
+
+I found that the thing I was going to use for firmwere is 5 yrs old and not supported. I am going to use alpaca for firmwere and change to adafruit rp2040
+
+** time spent 1hr 
