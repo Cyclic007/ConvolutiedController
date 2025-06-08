@@ -10,7 +10,7 @@ The controller uses an adaFruit Fether for the microcontroller.
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/adb4aff89deafc6d12d0b383af9ec94faa4a3179_image.png)
 
-![](https://hackclub.slack.com/archives/C016DEDUL87/p1749392403176389?thread_ts=1749392396.917319&cid=C016DEDUL87)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/68fce6d2c53e2e620efaffd102b12421c45b2f20_image.png)
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5bd6f40032a6ffecd1735271c88bd00e8aa2448a_image.png)
 
